@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "distributionpharmafrontendf8fc070c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
